@@ -45,6 +45,15 @@ public class Car
     {
         Console.WriteLine("Engine started!");
     }
+
+    public void Show()
+    {
+        Console.WriteLine("{");
+        Console.WriteLine("\tBrand: " + brand);
+        Console.WriteLine("\tModel: " + model);
+        Console.WriteLine("\tYear: " + year);
+        Console.Write("}");
+    }
 }
 
 // Inheritance
@@ -71,6 +80,16 @@ public class ElectricCar : Car
     {
         Console.WriteLine("Electric engine started!");
     }
+
+    public override void Show()
+    {
+        Console.WriteLine("{");
+        Console.WriteLine("\tBrand: " + brand);
+        Console.WriteLine("\tModel: " + model);
+        Console.WriteLine("\tYear: " + year);
+        Console.WriteLine("\tBatteryCapacity: " + batteryCapacity);
+        Console.Write("}");
+    }
 }
 
 class Program
@@ -84,7 +103,7 @@ class Program
         // Inheritance, Polymorphism
         ElectricCar myElectricCar = new ElectricCar("Tesla", "Model S", 2023, 100);
         myElectricCar.StartEngine(); // Polymorphism in action
-        
+
         // Accessing properties
         myElectricCar.Brand = "Nio";
         Console.WriteLine($"My electric car: {myElectricCar.Brand} {myElectricCar.Model}, Year: {myElectricCar.Year}, Battery Capacity: {myElectricCar.BatteryCapacity}");
