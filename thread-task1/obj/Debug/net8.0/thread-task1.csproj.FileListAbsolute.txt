@@ -1,0 +1,14 @@
+D:\project-files\CSharpProjectFiles\thread-task1\bin\Debug\net8.0\thread-task1.exe
+D:\project-files\CSharpProjectFiles\thread-task1\bin\Debug\net8.0\thread-task1.deps.json
+D:\project-files\CSharpProjectFiles\thread-task1\bin\Debug\net8.0\thread-task1.runtimeconfig.json
+D:\project-files\CSharpProjectFiles\thread-task1\bin\Debug\net8.0\thread-task1.dll
+D:\project-files\CSharpProjectFiles\thread-task1\bin\Debug\net8.0\thread-task1.pdb
+D:\project-files\CSharpProjectFiles\thread-task1\obj\Debug\net8.0\thread-task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\project-files\CSharpProjectFiles\thread-task1\obj\Debug\net8.0\thread-task1.AssemblyInfoInputs.cache
+D:\project-files\CSharpProjectFiles\thread-task1\obj\Debug\net8.0\thread-task1.AssemblyInfo.cs
+D:\project-files\CSharpProjectFiles\thread-task1\obj\Debug\net8.0\thread-task1.csproj.CoreCompileInputs.cache
+D:\project-files\CSharpProjectFiles\thread-task1\obj\Debug\net8.0\thread-task1.dll
+D:\project-files\CSharpProjectFiles\thread-task1\obj\Debug\net8.0\refint\thread-task1.dll
+D:\project-files\CSharpProjectFiles\thread-task1\obj\Debug\net8.0\thread-task1.pdb
+D:\project-files\CSharpProjectFiles\thread-task1\obj\Debug\net8.0\thread-task1.genruntimeconfig.cache
+D:\project-files\CSharpProjectFiles\thread-task1\obj\Debug\net8.0\ref\thread-task1.dll

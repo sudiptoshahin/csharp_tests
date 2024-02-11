@@ -1,0 +1,7 @@
+D:\project-files\CSharpProjectFiles\Test1\bin\Debug\Test1.exe.config
+D:\project-files\CSharpProjectFiles\Test1\bin\Debug\Test1.exe
+D:\project-files\CSharpProjectFiles\Test1\bin\Debug\Test1.pdb
+D:\project-files\CSharpProjectFiles\Test1\obj\Debug\Test1.csproj.AssemblyReference.cache
+D:\project-files\CSharpProjectFiles\Test1\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+D:\project-files\CSharpProjectFiles\Test1\obj\Debug\Test1.exe
+D:\project-files\CSharpProjectFiles\Test1\obj\Debug\Test1.pdb

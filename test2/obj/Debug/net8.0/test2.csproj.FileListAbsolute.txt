@@ -1,0 +1,14 @@
+D:\project-files\CSharpProjectFiles\test2\obj\Debug\net8.0\test2.GeneratedMSBuildEditorConfig.editorconfig
+D:\project-files\CSharpProjectFiles\test2\obj\Debug\net8.0\test2.AssemblyInfoInputs.cache
+D:\project-files\CSharpProjectFiles\test2\obj\Debug\net8.0\test2.AssemblyInfo.cs
+D:\project-files\CSharpProjectFiles\test2\obj\Debug\net8.0\test2.csproj.CoreCompileInputs.cache
+D:\project-files\CSharpProjectFiles\test2\bin\Debug\net8.0\test2.exe
+D:\project-files\CSharpProjectFiles\test2\bin\Debug\net8.0\test2.deps.json
+D:\project-files\CSharpProjectFiles\test2\bin\Debug\net8.0\test2.runtimeconfig.json
+D:\project-files\CSharpProjectFiles\test2\bin\Debug\net8.0\test2.dll
+D:\project-files\CSharpProjectFiles\test2\bin\Debug\net8.0\test2.pdb
+D:\project-files\CSharpProjectFiles\test2\obj\Debug\net8.0\test2.dll
+D:\project-files\CSharpProjectFiles\test2\obj\Debug\net8.0\refint\test2.dll
+D:\project-files\CSharpProjectFiles\test2\obj\Debug\net8.0\test2.pdb
+D:\project-files\CSharpProjectFiles\test2\obj\Debug\net8.0\test2.genruntimeconfig.cache
+D:\project-files\CSharpProjectFiles\test2\obj\Debug\net8.0\ref\test2.dll
